@@ -8,6 +8,7 @@ Includes data preprocessing, visualization, feature engineering, and model train
 Linear Regression: ~67% accuracy
 
 Random Forest: ~83% accuracy
+
 Random forest(after GridSearchCV tuning) : ~82% accuracy(lower than previous)
 
 
